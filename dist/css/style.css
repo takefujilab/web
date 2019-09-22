@@ -265,12 +265,12 @@ button,input,select,textarea,label{font-size:18px;line-height:27px}
 .features-wrap{display:flex;flex-wrap:wrap;justify-content:center;margin-right:-12px;margin-left:-12px}
 .features-wrap:first-child{margin-top:-12px}
 .features-wrap:last-child{margin-bottom:-12px}
-.feature{padding:12px;width:276px;max-width:276px;flex-grow:1}
+.feature{padding:12px;width:370px;max-width:370px;flex-grow:1}
 .feature-inner{position:relative;height:100%;background:#fff;padding:40px 24px}
 .feature-inner::before{content:'';position:absolute;top:0;right:0;bottom:0;left:0;box-shadow:0 16px 48px #E3E7EB;mix-blend-mode:multiply}
 @supports (-ms-ime-align: auto){.feature-inner::before{box-shadow:0 16px 48px rgba(32,43,54,0.12)}
 }
-.feature-icon{display:flex;justify-content:center}
+.feature-icon{display:flex;justify-content:center;height:100px;align-items:center;}
 @media (min-width: 641px){.features .section-title{margin-bottom:56px}
 .features .section-inner{padding-top:56px;padding-bottom:64px}
 }
