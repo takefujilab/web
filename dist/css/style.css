@@ -246,13 +246,13 @@ button,input,select,textarea,label{font-size:18px;line-height:27px}
 }
 .hero{position:relative;padding-top:40px;overflow:hidden}
 .hero-paragraph{margin-bottom:32px}
-.hero-media{color:#000000;font-size:18px;position:relative;height:200px;margin-top:40px;background:#fff;border-radius:4px 4px 0 0}
+.hero-media{color:#000000;font-size:1.2vw;line-height:3vh;position:relative;height:200px;margin-top:40px;background:#fff;border-radius:4px 4px 0 0}
 .hero-media::before{/*content:'';*/position:absolute;top:0;right:0;bottom:0;left:0;box-shadow:0 16px 48px #E3E7EB;mix-blend-mode:multiply}
 @supports (-ms-ime-align: auto){.hero-media::before{box-shadow:0 16px 48px rgba(32,43,54,0.12)}
 }
 @media (min-width: 641px){.hero{padding-top:20px}
 .hero-paragraph{margin-bottom:40px;padding-left:72px;padding-right:72px}
-.hero-media{margin-top:25px;height:300px;font-size:2vh;}
+.hero-media{margin-top:25px;height:300px;}
 }
 .clients .section-inner{padding-top:30px;padding-bottom:30px}
 .clients ul{display:flex;flex-wrap:wrap}
