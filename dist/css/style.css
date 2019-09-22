@@ -252,7 +252,7 @@ button,input,select,textarea,label{font-size:18px;line-height:27px}
 }
 @media (min-width: 641px){.hero{padding-top:20px}
 .hero-paragraph{margin-bottom:40px;padding-left:72px;padding-right:72px}
-.hero-media{margin-top:25px;height:300px;font-size:15px;}
+.hero-media{margin-top:25px;height:300px;font-size:2vh;}
 }
 .clients .section-inner{padding-top:30px;padding-bottom:30px}
 .clients ul{display:flex;flex-wrap:wrap}
