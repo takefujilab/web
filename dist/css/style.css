@@ -289,7 +289,7 @@ button,input,select,textarea,label{font-size:18px;line-height:27px}
 }
 @media (min-width: 1025px){.feature-extended{padding-left:40px;padding-right:40px}
 .feature-extended-image,.feature-extended-body{padding:0 20px}
-.feature-extended-image img,.feature-extended-image svg{width:480px}
+/* .feature-extended-image img,.feature-extended-image svg{width:480px} */
 }
 .pricing{position:relative;overflow:hidden}
 .pricing::before{content:'';position:absolute;top:100%;left:0;width:100%;height:640px;background:#F6F8FA;-webkit-transform-origin:0;transform-origin:0;-webkit-transform:skewY(-40deg);transform:skewY(-40deg);overflow:hidden}
@@ -348,6 +348,8 @@ main{flex:1 0 auto}
 .sp-jrc{font-size:19px;}
 .sp-tone{vertical-align:-14px;margin:10px;font-size:25px;}
 .sp-morita{font-size:19px;}
+.poster{border:1px #d0d0d0 solid}
+
 /* Cognito Forms*/
 .c-forms-heading h2{font-size:25px !important;}
 .cognito .c-label label, .cognito .c-label{font-size:15px !important;}
