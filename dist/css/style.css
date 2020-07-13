@@ -342,7 +342,7 @@ main{flex:1 0 auto}
 .pricing-table-title{font-size:25px;}
 .pricing-list{font-size:15px;}
 .formparts{width:100%;font-size:15px;}
-.etitle{line-height:30px;}
+.etitle{font-size:25px; margin-bottom:20px;}
 .privacy{margin:100px 100px 10px;font-size:15px;line-height:17px;}
 .sec-title{text-decoration-line:none;}
 .sp-jrc{font-size:19px;}
